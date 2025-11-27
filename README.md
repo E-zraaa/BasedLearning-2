@@ -2,11 +2,16 @@
 
 Repository ini dimaksudkan sebagai tempat dimana
 semua link youtube tugas saya dibuat.
+Saya membuat ini sebagai bentuk pemenuhan tugas.
 
 ## ⚠️ Disclaimer
 
 ```
-Saya membuat ini sebagai bentuk pemenuhan tugas.
+Perkenalkan saya Ezra Mohammad Kau
+NIM 05301425098
+Jurusan Teknik Informatikan
+Prodi Sistem Informasi
+Kelas E
 ```
 
 ## 🕷️ Project 1 - Manajemen file server
