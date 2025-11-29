@@ -28,4 +28,4 @@ Kelas  : E
 - Link videonya ada <a href="https://youtu.be/R2zMpMfbLgM?si=mEyr6lxlC84jrNog">disini</a>
 
 ## 👨‍💻 Dosen Pengampu
-- Bapak Zulhair Jidan Dj. Tamu., S.Kom, M.Kom
+- Bapak Zulhair Zidan Dj. Tamu., S.Kom, M.Kom
